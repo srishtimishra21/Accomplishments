@@ -1,0 +1,15 @@
+h1{
+  color: #f08a5d;
+}
+hr{
+  size: 3px;
+  width: 15%;
+  align: center;
+  color: #f7c5a8;
+  border-style: dotted none none;
+  border-width: 7px;
+}
+img{
+  height: 170px;
+  border-radius: 100%;
+}
